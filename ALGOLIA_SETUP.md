@@ -10,6 +10,7 @@ Your project already has:
 - ✅ Search component configured in `TopNav.js`
 - ✅ `.env.local` file created (needs your credentials)
 - ✅ Algolia preconnect configured in `_app.js`
+- ✅ Algolia site verification meta tag added (`50A0B4A451D65BAB`)
 
 ## Step 1: Get Algolia Credentials
 

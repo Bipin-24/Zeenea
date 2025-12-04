@@ -8,7 +8,7 @@ function Search() {
     <DocSearch
       appId={process.env.NEXT_PUBLIC_ALGOLIA_APP_ID}
       apiKey={process.env.NEXT_PUBLIC_ALGOLIA_API_KEY}
-      indexName="markdoc"
+      indexName="zdoc_netlify_app_klx2xamsju_pages"
     />
   );
 }
