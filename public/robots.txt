@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://markdoc.dev
+
+# Sitemaps
+Sitemap: https://markdoc.dev/sitemap.xml

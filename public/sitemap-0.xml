@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://markdoc.dev</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/attributes</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/config</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/examples</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/examples/html</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/examples/react</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/faq</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/format</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/frontmatter</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/functions</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/getting-started</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/nextjs</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/nodes</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/overview</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/partials</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/render</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/syntax</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/tags</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/validation</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/docs/variables</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/sandbox</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+<url><loc>https://markdoc.dev/spec</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2025-12-04T16:33:20.548Z</lastmod></url>
+</urlset>
