@@ -4,13 +4,30 @@ import { DocSearch } from '@docsearch/react';
 import { AppLink as Link } from '../AppLink';
 
 function Search() {
+  // Temporarily disabled until Algolia index has proper hierarchy structure
+  // See ALGOLIA_INDEX_FIX.md for instructions on fixing the index
+  return null;
+  
+  /*
+  if (!process.env.NEXT_PUBLIC_ALGOLIA_APP_ID || !process.env.NEXT_PUBLIC_ALGOLIA_API_KEY) {
+    return null;
+  }
+
   return (
     <DocSearch
       appId={process.env.NEXT_PUBLIC_ALGOLIA_APP_ID}
       apiKey={process.env.NEXT_PUBLIC_ALGOLIA_API_KEY}
       indexName="zdoc_netlify_app_klx2xamsju_pages"
+      placeholder="Search documentation..."
+      translations={{
+        button: {
+          buttonText: 'Search',
+          buttonAriaLabel: 'Search',
+        },
+      }}
     />
   );
+  */
 }
 
 export function TopNav({ children }) {

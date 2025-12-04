@@ -14,6 +14,7 @@
     "@docsearch/react": "^3.6.0",
     "@markdoc/markdoc": "^0.4.0",
     "@markdoc/next.js": "^0.3.7",
+    "algoliasearch": "^5.46.0",
     "codemirror": "^5.65.2",
     "copy-to-clipboard": "^3.3.1",
     "js-yaml": "^4.1.0",
